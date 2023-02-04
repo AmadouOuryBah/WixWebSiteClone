@@ -1,7 +1,9 @@
-# WixWebSiteClone
-A personal project for my training , I clone this wix web site that I encounter the design on dribble.com ,
-I made by visualising the only the picture of the desing without any figma file , so I tried to challenge myself by building this site of three pages 
-by using HTML and CSS, I also some hover effect on the links  The result of work below with some screenshorts
+# WixWebSiteTemplateCloned
+A personal project for my training , I clone this wix web site template that I encountered the template on dribbble.com ,
+I made by visualising the only the picture of the template without any figma file ,
+so I tried to challenge myself by building this site of three pages 
+by using HTML and CSS, I have added as well some hover effects on the links of the pages ,
+The result of work below with some screenshorts
 
 ![image](https://user-images.githubusercontent.com/78964639/216785892-4d325928-c503-41e1-9513-02aacee2e4ca.png)
 
